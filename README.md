@@ -1,28 +1,15 @@
+![Demo Image](img/drum-kit-demo.jpg)
 # Drum Kit
 
-One Paragraph of project description goes here
+Hit the corresponding keys on your keyboard, and it will play the sound associated with that key.
 
 ## Live Demo
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Click for a [Live Demo.](http://apps.javierlona.com/drum-kit/)
 
 ## Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Download the zip file and launch index.html in your web browser.
 
 
 ## License
